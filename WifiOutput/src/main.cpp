@@ -16,8 +16,8 @@ int led3 = 3;
 int led4 = 4;
 
 int tempo = 1000;
-const char* ssid = "CasaBr";
-const char* password = "5d8d992e43";
+const char* ssid = "network";
+const char* password = "password";
 
 const char* ntpServer = "pool.ntp.org";
 const long  gmtOffset_sec = 0;
